@@ -1,6 +1,8 @@
 #include <iostream> 
 #include <string>
 
+
+
 class Message
 {
 protected:
